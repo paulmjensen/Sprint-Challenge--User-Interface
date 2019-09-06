@@ -34,13 +34,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic HTML makes your code easier to read for developers. The word div is not very descriptive. The word header has "meaning" and you know it will be at the top of the page. the word nav will mean the tag will help the user navigate to other links. More importantly, it improves Search Engine Optimization or SEO so your website can more easily be found in search engines.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    display: inline takes up as much space as its content, while display: inline takes up as much as its parent element will allow.
+
+    display: inline cannot nest block elements. Display: block can nest both block and inline elements.
 
 3. What are the 4 areas of the box model?
 
+    Content
+    Padding
+    Border
+    Margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    Cross Axis
+
 5. Explain why git is valuable to a team of developers.
+
+    "Version Control". You want every team member to have the most updated version of the code, not working on two conflicting code bases at the same time. Code must be precise, so having even small differences could mean the code won't run.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
