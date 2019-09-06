@@ -252,23 +252,9 @@ footer nav a {
     display: flex;
     justify-content: center;
 }
-.AllTheBoxes section{
+.AllTheBoxes{
     display:flex;
-    flex-direction: column;
-}
-.AllTheBoxes section img{
-    display:flex;
-    justify-content: flex-start;
-}
-.AllTheBoxes section h2{
-    display:flex;
-    flex-direction: column;
-}
-.AllTheBoxes section button{
-    display:flex;
-    flex-direction: column;
-}
-.AllTheBoxes section h2 p{
-    display:flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
