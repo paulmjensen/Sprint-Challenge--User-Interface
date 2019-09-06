@@ -57,7 +57,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
     "Version Control". You want every team member to have the most updated version of the code, not working on two conflicting code bases at the same time. Code must be precise, so having even small differences could mean the code won't run.
 
-You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.  
+
 
 ## Project Set Up
 
