@@ -234,6 +234,7 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
 .TheHomePageDiv{
     padding: 20px 2%;
     margin: 10px;
@@ -243,15 +244,20 @@ footer nav a {
     justify-content: flex-end;
 }
 .TheHomePageDiv .TheHomePageNav{
+    width: 800px;
     padding:20px 2%;
     margin: 10px;
+    margin-left: 500px;
     display:flex;
-    justify-content: space-evenly;
+    justify-content:space-between;
 }
+
 .TheHomePageDiv .traffic-picture{
+    margin-left: 500px;
     display: flex;
     justify-content: center;
 }
+
 .AllTheBoxes{
     display:flex;
     flex-wrap: wrap;
