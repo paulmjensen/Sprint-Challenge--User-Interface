@@ -264,3 +264,9 @@ footer nav a {
     justify-content: center;
     align-items: center;
 }
+
+.AllTheBoxes p{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}
